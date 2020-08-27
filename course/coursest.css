@@ -5,9 +5,9 @@
 .title li{width:170px;text-align:center;background-color:lightskyblue;font-size:17px;float:left;cursor:pointer;padding:6px 0;}
 .title li.cur{background:lightskyblue;color:#ffffff;}
 .titleexp li{float:left;margin-right:10px;}
-.zong{clear:both;width:1000px;height:450px;overflow:hidden;}
+.zong{clear:both;width:850px;height:450px;overflow:hidden;}
 .list{width:6994px;}
-.list .tabCon{float:left;width:998px;height:450px;border:1px solid #F2F2F2;border-top:0px ;}
+.list .tabCon{float:left;width:998px;height:450px;border-top:0px ;}
 .tabth{width:998px;height:37px;line-height:37px;color:#ffffff;background-color:lightskyblue}
 .tabth span{display:inline-block;text-align:center;float:left;font-size: 15px;}
 #s1,#s2,#s3,#s4,#s5,#s6,#s7{height:450px;overflow:hidden;}
